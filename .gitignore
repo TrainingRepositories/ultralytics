@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/
 lib64/
 parts/
 sdist/
@@ -150,4 +150,4 @@ wandb/
 *_openvino_model/
 *_paddle_model/
 
-.env3.9.16/
+
